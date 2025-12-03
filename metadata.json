@@ -1,0 +1,7 @@
+{
+  "name": "Finger Snake",
+  "description": "A snake game controlled by your finger using computer vision. Use Gemini to generate custom AI themes for the game!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
